@@ -1,3 +1,5 @@
 pyaudio
 vosk
 pyttsx3
+requests
+streamlit
